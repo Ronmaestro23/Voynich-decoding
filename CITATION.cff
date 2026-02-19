@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Complete Computational Decoding of the Voynich Manuscript"
+authors:
+
+* family-names: Nielsen
+  given-names: Ronny Juul
+  year: 2026
+  license: MIT
